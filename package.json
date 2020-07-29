@@ -1,0 +1,13 @@
+{
+  "name": "babel-plugin-for-length-optimizer",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "jest": "^26.1.0",
+    "prettier": "^2.0.5"
+  }
+}
