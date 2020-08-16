@@ -1,7 +1,7 @@
 {
   "name": "babel-plugin-for-length-optimizer",
   "version": "1.0.0",
-  "author": "Arterm Butusov <art.sormy@gmail.com>",
+  "author": "Artem Butusov <art.sormy@gmail.com>",
   "license": "MIT",
   "main": "dist/plugin.js",
   "keywords": [
